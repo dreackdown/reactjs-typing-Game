@@ -34,13 +34,12 @@ body {
     border-bottom: solid 2px #fff;
 }
 
-.container .matched {
+.container .valid-keys .matched {
     background-color: #fdf8c5;
     color: #282c34;
-
 }
 
-.container .remaider {
+.container .valid-keys .remainder {
     opacity: 0.5;
 }
 
